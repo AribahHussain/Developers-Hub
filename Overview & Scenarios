@@ -1,0 +1,141 @@
+# 💼 Internship Projects @Developers Hub
+
+This repository contains all tasks completed during my internship at **@Developers Hub** 👩‍💻. Each project is designed to strengthen core skills in data science, machine learning, and AI application development. Below is a summary of all tasks, their objectives, tools, and acquired skills.
+
+---
+
+## 🧪 Task 1: Exploring and Visualizing a Simple Dataset
+
+**Objective:**  
+Learn to load, inspect, and visualize data to understand feature trends and distributions.
+
+**Dataset:**  
+📊 *Iris Dataset* (CSV format or seaborn built-in)
+
+**Instructions:**  
+- Load the dataset using `pandas`
+- Use `.head()`, `.info()`, and `.describe()` for inspection
+- Create scatter plots, histograms, and box plots
+- Use `matplotlib` and `seaborn` for visualization
+
+**Skills Gained:**  
+✔ Data loading and inspection  
+✔ Exploratory Data Analysis (EDA)  
+✔ Visualization using Seaborn and Matplotlib
+
+---
+
+## 📈 Task 2: Predict Future Stock Prices (Short-Term)
+
+**Objective:**  
+Predict next-day stock closing prices using historical market data.
+
+**Dataset:**  
+📉 *Yahoo Finance API* via `yfinance`
+
+**Instructions:**  
+- Choose a stock (e.g., Tesla, Apple)  
+- Fetch historical data using `yfinance`  
+- Train a regression model (Linear Regression / Random Forest)  
+- Plot actual vs. predicted prices
+
+**Skills Gained:**  
+✔ Time series handling  
+✔ Regression modeling  
+✔ API usage  
+✔ Prediction visualization
+
+---
+
+## ❤️ Task 3: Heart Disease Prediction
+
+**Objective:**  
+Build a model to predict heart disease risk based on patient health data.
+
+**Dataset:**  
+🩺 *Heart Disease UCI Dataset* (Kaggle)
+
+**Instructions:**  
+- Clean and preprocess the data  
+- Conduct EDA to identify trends  
+- Train models (Logistic Regression / Decision Tree)  
+- Evaluate using Accuracy, ROC Curve, Confusion Matrix
+
+**Skills Gained:**  
+✔ Binary classification  
+✔ Medical data analysis  
+✔ Model evaluation (ROC-AUC, CM)  
+✔ Feature importance understanding
+
+---
+
+## 🤖 Task 4: General Health Query Chatbot (Prompt Engineering)
+
+**Objective:**  
+Build a safe chatbot that answers general health questions using LLMs.
+
+**Tools:**  
+🧠 *OpenAI GPT-3.5 API* or *Mistral-7B-Instruct* on Hugging Face
+
+**Instructions:**  
+- Use prompt engineering to guide the chatbot  
+- Block unsafe or harmful medical queries  
+- Example queries: “What causes a sore throat?”
+
+**Skills Gained:**  
+✔ Prompt design  
+✔ LLM usage via APIs  
+✔ Safety filtering  
+✔ Conversational AI design
+
+---
+
+## 💬 Task 5: Mental Health Support Chatbot (Fine-Tuned)
+
+**Objective:**  
+Create an emotionally supportive chatbot for stress and anxiety relief.
+
+**Model Base:**  
+DistilGPT2, GPT-Neo, or Mistral-7B  
+**Dataset:**  
+📚 *EmpatheticDialogues* (Facebook AI)
+
+**Instructions:**  
+- Fine-tune a small LLM using Hugging Face Trainer  
+- Ensure empathetic, non-clinical responses  
+- Build a CLI or Streamlit interface
+
+**Skills Gained:**  
+✔ LLM fine-tuning  
+✔ Emotional tone modeling  
+✔ CLI/Web app deployment  
+✔ Safe dialogue simulation
+
+---
+
+## 🏡 Task 6: House Price Prediction
+
+**Objective:**  
+Predict house prices based on property features and location.
+
+**Dataset:**  
+🏘️ *House Price Prediction Dataset* (Kaggle)
+
+**Instructions:**  
+- Preprocess features (size, bedrooms, location)  
+- Train models (Linear Regression / Gradient Boosting)  
+- Visualize predictions vs actual values  
+- Evaluate with MAE and RMSE
+
+**Skills Gained:**  
+✔ Regression analysis  
+✔ Feature engineering  
+✔ Error metric evaluation  
+✔ Real estate data modeling
+
+---
+
+## ✅ Summary
+
+These projects demonstrate my ability to handle real-world data science and AI challenges — from data analysis and modeling to chatbot development and prompt engineering. Each task reflects my learning and growth during the internship, and I’m excited to apply these skills in future roles and projects!
+
